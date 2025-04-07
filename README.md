@@ -1,7 +1,11 @@
 # AI Tools for Accelerating the Discovery of Quantum Magnets
 
-MRS Spring 2025 Tutorial
+MRS Spring 2025 
 
+Tutorial QT02—Advanced Quantum Magnets and Related Technologies Toward Energy-Efficient Computing
+
+https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/tutorial-sessions/2025-mrs-spring-meeting/tutorial-qt02-advanced-quantum-magnets-and-related-technologies-toward-energy-efficient-computing
+---------------------------
 Quantum magnetic materials
 
 Trevor David Rhone, Rensselaer Polytechnic Institute
